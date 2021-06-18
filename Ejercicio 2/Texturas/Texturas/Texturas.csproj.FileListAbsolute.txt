@@ -1,9 +1,0 @@
-c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Texturas\Texturas\bin\Debug\Texturas.exe.config
-c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Texturas\Texturas\bin\Debug\Texturas.exe
-c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Texturas\Texturas\bin\Debug\Texturas.pdb
-c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Texturas\Texturas\obj\Debug\Texturas.csprojResolveAssemblyReference.cache
-c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Texturas\Texturas\obj\Debug\Texturas.Form1.resources
-c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Texturas\Texturas\obj\Debug\Texturas.Properties.Resources.resources
-c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Texturas\Texturas\obj\Debug\Texturas.csproj.GenerateResource.Cache
-c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Texturas\Texturas\obj\Debug\Texturas.exe
-c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Texturas\Texturas\obj\Debug\Texturas.pdb
